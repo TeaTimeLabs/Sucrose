@@ -2,7 +2,7 @@ package me.nykorrin.sucrose.commands;
 
 import me.nykorrin.sucrose.Sucrose;
 import me.nykorrin.sucrose.data.ImageManager;
-import me.nykorrin.sucrose.LogoRenderer;
+import me.nykorrin.sucrose.models.LogoRenderer;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;

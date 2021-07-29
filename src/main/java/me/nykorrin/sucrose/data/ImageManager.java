@@ -1,6 +1,6 @@
 package me.nykorrin.sucrose.data;
 
-import me.nykorrin.sucrose.LogoRenderer;
+import me.nykorrin.sucrose.models.LogoRenderer;
 import me.nykorrin.sucrose.Sucrose;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;
