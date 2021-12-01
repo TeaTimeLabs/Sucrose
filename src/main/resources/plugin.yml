@@ -1,7 +1,7 @@
 name: me.nykorrin.sucrose.Sucrose
 authors: [CodedRed, Nykorrin]
 version: ${project.version}
-api-version: 1.17
+api-version: 1.18
 main: me.nykorrin.sucrose.me.nykorrin.sucrose.Sucrose
 website: https://youtu.be/DMNdcJyeP4k?list=PL65-DKRLvp3ZO2i1OK0tfRsZt-glkBpUV
 description: And this one is called... Mist Flower Project 3, Version 17, Enlargement Trial.
