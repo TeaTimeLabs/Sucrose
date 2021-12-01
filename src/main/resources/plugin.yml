@@ -1,4 +1,4 @@
-name: me.nykorrin.sucrose.Sucrose
+name: Sucrose
 authors: [CodedRed, Nykorrin]
 version: ${project.version}
 api-version: 1.18
